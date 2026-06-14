@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:22d3ee&height=180&section=header&text=LeHoangPhuc2310&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:22d3ee&height=180&section=header&text=Phuc%20Le&fontSize=46&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+<h3>Le Hoang Phuc · Unity &amp; Python Developer</h3>
+
+<sub>@LeHoangPhuc2310 · Vietnam · Indie Game Dev</sub>
+
+<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Game+Developer+%7C+Unity;2D+Roguelike+%26+Survival;C%23+%7C+Python+%7C+Computer+Vision;Building+DungeonSoul+%F0%9F%8E%AE" alt="Typing intro" />
 
@@ -16,7 +22,7 @@
 
 ## About Me
 
-**Phuc** — developer focused on **interactive systems**: Unity gameplay, roguelike loops, and applied AI / computer vision.
+**Le Hoang Phuc (Phuc Le)** — developer focused on **interactive systems**: Unity gameplay, roguelike loops, and applied AI / computer vision.
 
 - Building **[DungeonSoul](https://github.com/LeHoangPhuc2310/DungeonSoul)** — 2D survivor roguelike (Unity 6, pixel art, meta progression)
 - Interested in **combat feel**, **VFX/audio feedback**, **spawn curves**, and **clean C# architecture**
@@ -133,7 +139,7 @@ Notebook-based experiments and learning from the deep learning ecosystem.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-LeHoangPhuc2310-181717?style=for-the-badge&logo=github)](https://github.com/LeHoangPhuc2310)
+[![GitHub](https://img.shields.io/badge/@LeHoangPhuc2310-181717?style=for-the-badge&logo=github)](https://github.com/LeHoangPhuc2310)
 [![DungeonSoul](https://img.shields.io/badge/Playground-DungeonSoul-8b5cf6?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/LeHoangPhuc2310/DungeonSoul)
 
 *Add LinkedIn / portfolio / email badges here when ready.*
